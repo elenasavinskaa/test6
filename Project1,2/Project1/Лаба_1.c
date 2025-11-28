@@ -17,7 +17,7 @@
 //	SetConsoleOutputCP(1251);
 //
 //	printf("Hello World!");
-//	printf("Привет мир!");
+//	printf("!");
 //}
 
 
